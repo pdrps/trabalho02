@@ -18,6 +18,36 @@ table{
 .janeiro, .fevereiro, .marco, .abril, .maio, .junho, .julho, .agosto, .setembro, .outubro, .novembro, .dezembro{
     display: flex;
     flex-direction: row;
+    
+
+    margin-left: 50px;
+}
+
+
+.texto{
+    display: flex;
+    flex-direction: row;
+    
+    line-height: 27px;
+}
+
+.cabecalho{
+
+    margin-top: 20px;
+    margin-left: 25px;
+    margin-bottom: 60px;
+
+    display: flex;
+    flex-direction: row;
+    
+
+}
+
+.texto_cabecalho{
+    display: flex;
+    flex-direction: row;
+    font-size: 50px;
+    line-height: 67px;
 }
 
 
